@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arman VN
-- 👀 I’m interested in web desing/Front-End
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Full-Stack/Back-End/Front-End//web desing
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me cdmyblhp@gmail.com 
 - ⚡ Fun fact: WOW
