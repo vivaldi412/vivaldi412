@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arman VN
 - 👀 I’m interested in Full-Stack/Back-End/Front-End//web desing
 - 💞️ I’m looking to collaborate on React
-- 
+- 🔭 I’m currently try to learning Rust
 - 📫 How to reach me cdmyblhp@gmail.com 
 - ⚡ Fun fact: WOW
 
